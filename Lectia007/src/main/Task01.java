@@ -17,7 +17,7 @@ public class Task01
 	{
 	    n=n+1;
 	}
-	System.out.println(n);
+	System.out.println(n+" sticle intregi folosite");
     }
 
 }
